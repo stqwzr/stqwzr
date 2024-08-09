@@ -2,7 +2,7 @@
 
 ---
 
-Computer Vision Engineer @ [Presight](https://www.presight.ai)
+Computer Vision Engineer
 
 Interested in all Deep Learning related stuff, especially Computer Vision. 😎
 
